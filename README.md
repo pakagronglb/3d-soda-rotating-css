@@ -10,7 +10,8 @@ This project showcases a 3D rotation effect on a soda can using pure CSS, adding
 - Uses `mask-image` and `background-blend-mode` properties for enhanced visuals.
 
 ## Preview
-![Uploading 3d-soda-rotating-css_091524.gif…]()
+
+
 
 ## Built with 
 - HTML
